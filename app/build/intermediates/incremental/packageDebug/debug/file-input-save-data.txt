@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri Nov 27 02:57:58 IST 2020
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\eranp\\Google Drive\\Projects\\Android_Studio\\ClientPageNew\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\94
+0.path=classes.dex
+0.set=DEX
+count=1

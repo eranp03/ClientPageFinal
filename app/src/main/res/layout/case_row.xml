@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="start"
+        android:orientation="horizontal"
+        android:id="@+id/linearLayout">
+        <ImageView
+            android:layout_width="64dp"
+            android:layout_height="64dp"
+            android:layout_marginStart="10dp"
+            android:src="@drawable/name_img"
+            android:paddingTop="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_gravity="start"
+            android:layout_marginBottom="10dp"/>
+
+
+        <TextView
+            android:id="@+id/fullName1_TVC"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="start"
+            android:text="@string/fName"
+            android:layout_marginStart="15dp"
+            android:layout_marginTop="10dp"
+            android:textColor="@color/Black"
+            android:textStyle="bold"
+            android:textSize="18dp"/>
+
+
+    </LinearLayout>
+
+
+    <TextView
+        android:id="@+id/dateArrived_TVC"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_below="@+id/linearLayout"
+        android:gravity="end"
+        android:paddingStart="320dp"
+        android:text="date" />
+    <TextView
+        android:text="@string/telephone"
+        android:textSize="15dp"
+        android:id="@+id/telephone_TVC"
+        android:paddingTop="33dp"
+        android:paddingLeft="25dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="start"
+        android:layout_marginStart="64dp"
+        android:textColor="@color/Black"/>
+
+    <TextView
+        android:id="@+id/pro_device_det_shortCp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="start"
+        android:paddingStart="90dp"
+        android:paddingTop="50dp"
+        android:text="@string/descOfTProb"
+        android:textSize="18dp" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        >
+        <TextView
+            android:id="@+id/nameDevice_TVC"
+            android:layout_width="150dp"
+            android:layout_height="46dp"
+            android:layout_marginTop="80dp"
+            android:layout_marginStart="74dp"
+            android:layout_marginEnd="20dp"
+            android:padding="10dp"
+            android:hint="@string/nameDevice"
+            android:paddingStart="15dp"
+            android:inputType="text"/>
+
+        <TextView
+            android:id="@+id/modelDevice_TVC"
+            android:layout_width="wrap_content"
+            android:layout_marginTop="80dp"
+            android:layout_marginEnd="20dp"
+            android:layout_height="46dp"
+            android:padding="10dp"
+            android:layout_marginStart="5dp"
+            android:hint="@string/deviceModel"
+            android:paddingStart="15dp"
+            android:inputType="text"/>
+
+
+    </LinearLayout>
+
+
+</RelativeLayout>

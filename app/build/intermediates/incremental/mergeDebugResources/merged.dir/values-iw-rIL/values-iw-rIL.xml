@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Ccase">סגור תיק</string>
+    <string name="Eran">ערן</string>
+    <string name="Omer">עומר</string>
+    <string name="Shlomi">שלומי</string>
+    <string name="Surgency">בחר רמת דחיפות</string>
+    <string name="addCus">הוסף לקוח</string>
+    <string name="allCust">כל הלקוחות</string>
+    <string name="app_name">דף לקוח</string>
+    <string name="cliData">הנתונים של הלקוח</string>
+    <string name="close">סגור</string>
+    <string name="custL">רשימת הלקוחות</string>
+    <string name="delete">למחוק</string>
+    <string name="delivePhoneRepair">מה הבעיה במכשיר?</string>
+    <string name="descOfTProb">" :תיאור התקלה"</string>
+    <string name="detOfTCus">פרטי הלקוח</string>
+    <string name="detOfTDev">הפרטים של המכשיר:</string>
+    <string name="deviceModel">דגם המכשיר</string>
+    <string name="email">כתובת מייל</string>
+    <string name="fName">שם פרטי</string>
+    <string name="fix">ניתן לתיקון</string>
+    <string name="hello">"שלום, "</string>
+    <string name="lName">שם משפחה</string>
+    <string name="messF">אתה מוזמן לקחת את הטלפון הוא מתוקן שלך בשעות הפתיחה ראשון-חמישי 9:30-20:00 שישי 9:30-14:00</string>
+    <string name="messNF">אתה מוזמן לקחת את הטלפון  שלך שאינו ניתן לתיקון בשעות הפתיחה ראשון-חמישי 9:30-20:00 שישי 9:30-14:00</string>
+    <string name="nameDevice">שם המוצר</string>
+    <string name="name_client">שם הלקוח: </string>
+    <string name="nameofsubmitter">"שם המוסר לתיקון: "</string>
+    <string name="next">הבא</string>
+    <string name="open">פתוח</string>
+    <string name="option1">מחכה לטיפול</string>
+    <string name="option1u">1 - מאוד דחוף</string>
+    <string name="option2">נשלח למעבדה</string>
+    <string name="option2u">2 - דחוף</string>
+    <string name="option3">בקשת אישור מהלקוח אם המחיר משתנה</string>
+    <string name="option3u">3 -דחוף</string>
+    <string name="option4">הטלפון מוכן</string>
+    <string name="option5">הטלפון אינו ניתן לטיפול</string>
+    <string name="save">שמור</string>
+    <string name="saveCustomer">שמור לקוח</string>
+    <string name="send">שלח</string>
+    <string name="set">לערוך</string>
+    <string name="subj">הטלפון שלך מוכן</string>
+    <string name="telephone">"מספר טלפון: "</string>
+</resources>

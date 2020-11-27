@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_AddCustomer"
+        android:title="@string/addCus"
+        android:icon="@drawable/ic_person_add_black_24dp"/>
+
+    <item
+        android:id="@+id/nav_allCust"
+        android:icon="@drawable/people"
+        android:title="View All Issues" />
+    <item
+        android:id="@+id/nav_custL"
+        android:title="@string/custL"
+        android:icon="@drawable/ic_people_black_24dp"/>
+
+</menu>

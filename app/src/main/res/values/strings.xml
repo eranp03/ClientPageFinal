@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Client page</string>
+    <string name="name_client">Name client</string>
+    <string name="telephone">Telephone number:</string>
+    <string name="detOfTCus">"CUSTOMER DETAILS"</string>
+    <string name="detOfTDev">"DEVICE DETAILS"</string>
+    <string name="nameDevice">Device name:</string>
+    <string name="deviceModel">Device model:</string>
+    <string name="delivePhoneRepair">WHAT\'S THE ISSUE?</string>
+    <string name="descOfTProb">Description of the problem</string>
+    <string name="nameofsubmitter">Name of submitter:</string>
+    <string name="Eran">Eran</string>
+    <string name="Shlomi">Shlomi</string>
+    <string name="Omer">Omer</string>
+    <string name="email">Email address</string>
+    <string name="next">Next</string>
+    <string name="fName">First name</string>
+    <string name="lName">Last name</string>
+    <string name="hello">"Hello, "</string>
+    <string name="save">Save</string>
+    <string name="option1">Waiting for treatment</string>
+    <string name="option2">Sent to the lab</string>
+    <string name="option3">Request confirmations</string>
+    <string name="option4">The phone is ready</string>
+    <string name="option5">The phone is not treatable</string>
+    <string name="messF">Your phone is ready, you are invited to take in opening hours Sunday-Thursday 9:30-20:00 Friday-9:30-14:00</string>
+    <string name="messNF">Your phone that can not be repaired, you are invited to take in opening hours Sunday-Thursday 9:30-20:00 Friday-9:30-14:00</string>
+    <string name="subj">Your phone is ready</string>
+    <string name="cliData">Client data</string>
+    <string name="send">Send</string>
+    <string name="set">Set</string>
+    <string name="delete">Delete</string>
+    <string name="saveCustomer">Save Customer</string>
+    <string name="option1u">1 - very urgent</string>
+    <string name="option2u">2 - urgent</string>
+    <string name="option3u">3 - No urgent</string>
+    <string name="Surgency">Select an urgency level</string>
+    <string name="allCust">All Customers</string>
+    <string name="custL">Customers list</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="addCus">Add customer</string>
+    <string name="fix">fixable</string>
+    <string name="Ccase">Close Case</string>
+
+</resources>

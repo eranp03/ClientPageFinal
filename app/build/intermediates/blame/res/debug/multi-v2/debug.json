@@ -490,62 +490,6 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\Eran P\\AndroidStudioProjects\\ClientPageNew\\app\\build\\intermediates\\res\\merged\\debug\\values-nl_values-nl.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\Eran P\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-11.8.0.aar\\ac613952b08f8841d2bd99458883c31f\\res\\values-nl\\values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "283",
-                        "endColumns": "201",
-                        "endOffsets": "484"
-                    },
-                    "to": {
-                        "startLines": "19",
-                        "startColumns": "4",
-                        "startOffsets": "1888",
-                        "endColumns": "201",
-                        "endOffsets": "2085"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Eran P\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\b8682d6dc2122727d4dfc673ac00f6b1\\res\\values-nl\\values-nl.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,223,328,435,521,629,749,826,903,985,1096,1200,1299,1414,1527,1630,1785,1888",
-                        "endColumns": "117,104,106,85,107,119,76,76,81,110,103,98,114,112,102,154,102,81",
-                        "endOffsets": "218,323,430,516,624,744,821,898,980,1091,1195,1294,1409,1522,1625,1780,1883,1965"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,223,328,435,521,629,749,826,903,985,1096,1200,1299,1414,1527,1630,1785,2090",
-                        "endColumns": "117,104,106,85,107,119,76,76,81,110,103,98,114,112,102,154,102,81",
-                        "endOffsets": "218,323,430,516,624,744,821,898,980,1091,1195,1294,1409,1522,1625,1780,1883,2167"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Eran P\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\f2a2142be038702921832370400c6198\\res\\values-nl\\values-nl.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "21",
-                        "startColumns": "4",
-                        "startOffsets": "2172",
-                        "endColumns": "100",
-                        "endOffsets": "2268"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "C:\\Users\\eranp\\Google Drive\\Projects\\Android_Studio\\ClientPageNew\\app\\build\\intermediates\\res\\merged\\debug\\values-iw_values-iw.arsc.flat",
             "map": [
                 {
@@ -597,6 +541,62 @@
                         "startOffsets": "1807",
                         "endColumns": "176",
                         "endOffsets": "1979"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Eran P\\AndroidStudioProjects\\ClientPageNew\\app\\build\\intermediates\\res\\merged\\debug\\values-nl_values-nl.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Eran P\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-11.8.0.aar\\ac613952b08f8841d2bd99458883c31f\\res\\values-nl\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "283",
+                        "endColumns": "201",
+                        "endOffsets": "484"
+                    },
+                    "to": {
+                        "startLines": "19",
+                        "startColumns": "4",
+                        "startOffsets": "1888",
+                        "endColumns": "201",
+                        "endOffsets": "2085"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Eran P\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\b8682d6dc2122727d4dfc673ac00f6b1\\res\\values-nl\\values-nl.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,223,328,435,521,629,749,826,903,985,1096,1200,1299,1414,1527,1630,1785,1888",
+                        "endColumns": "117,104,106,85,107,119,76,76,81,110,103,98,114,112,102,154,102,81",
+                        "endOffsets": "218,323,430,516,624,744,821,898,980,1091,1195,1294,1409,1522,1625,1780,1883,1965"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,223,328,435,521,629,749,826,903,985,1096,1200,1299,1414,1527,1630,1785,2090",
+                        "endColumns": "117,104,106,85,107,119,76,76,81,110,103,98,114,112,102,154,102,81",
+                        "endOffsets": "218,323,430,516,624,744,821,898,980,1091,1195,1294,1409,1522,1625,1780,1883,2167"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Eran P\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\f2a2142be038702921832370400c6198\\res\\values-nl\\values-nl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "21",
+                        "startColumns": "4",
+                        "startOffsets": "2172",
+                        "endColumns": "100",
+                        "endOffsets": "2268"
                     }
                 }
             ]
@@ -1003,62 +1003,6 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\eranp\\Google Drive\\Projects\\Android_Studio\\ClientPageNew\\app\\build\\intermediates\\res\\merged\\debug\\values-fi_values-fi.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\eranp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\63e4ee05c17a5ba982d382654dec0768\\res\\values-fi\\values-fi.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,213,313,414,500,605,723,810,892,972,1079,1182,1279,1385,1484,1588,1751,1850",
-                        "endColumns": "107,99,100,85,104,117,86,81,79,106,102,96,105,98,103,162,98,79",
-                        "endOffsets": "208,308,409,495,600,718,805,887,967,1074,1177,1274,1380,1479,1583,1746,1845,1925"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,213,313,414,500,605,723,810,892,972,1079,1182,1279,1385,1484,1588,1751,2059",
-                        "endColumns": "107,99,100,85,104,117,86,81,79,106,102,96,105,98,103,162,98,79",
-                        "endOffsets": "208,308,409,495,600,718,805,887,967,1074,1177,1274,1380,1479,1583,1746,1845,2134"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\eranp\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\ac048145027ea8995425f58a0af7bd6a\\res\\values-fi\\values-fi.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "21",
-                        "startColumns": "4",
-                        "startOffsets": "2139",
-                        "endColumns": "100",
-                        "endOffsets": "2235"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\eranp\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-11.8.0.aar\\7018e0376aabbbd7f12cf5aaa897d209\\res\\values-fi\\values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "283",
-                        "endColumns": "208",
-                        "endOffsets": "491"
-                    },
-                    "to": {
-                        "startLines": "19",
-                        "startColumns": "4",
-                        "startOffsets": "1850",
-                        "endColumns": "208",
-                        "endOffsets": "2054"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "C:\\Users\\eranp\\Google Drive\\Projects\\Android_Studio\\ClientPageNew\\app\\build\\intermediates\\res\\merged\\debug\\values-fr_values-fr.arsc.flat",
             "map": [
                 {
@@ -1110,6 +1054,62 @@
                         "startOffsets": "2227",
                         "endColumns": "100",
                         "endOffsets": "2323"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\eranp\\Google Drive\\Projects\\Android_Studio\\ClientPageNew\\app\\build\\intermediates\\res\\merged\\debug\\values-fi_values-fi.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\eranp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\63e4ee05c17a5ba982d382654dec0768\\res\\values-fi\\values-fi.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,213,313,414,500,605,723,810,892,972,1079,1182,1279,1385,1484,1588,1751,1850",
+                        "endColumns": "107,99,100,85,104,117,86,81,79,106,102,96,105,98,103,162,98,79",
+                        "endOffsets": "208,308,409,495,600,718,805,887,967,1074,1177,1274,1380,1479,1583,1746,1845,1925"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,213,313,414,500,605,723,810,892,972,1079,1182,1279,1385,1484,1588,1751,2059",
+                        "endColumns": "107,99,100,85,104,117,86,81,79,106,102,96,105,98,103,162,98,79",
+                        "endOffsets": "208,308,409,495,600,718,805,887,967,1074,1177,1274,1380,1479,1583,1746,1845,2134"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\eranp\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\ac048145027ea8995425f58a0af7bd6a\\res\\values-fi\\values-fi.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "21",
+                        "startColumns": "4",
+                        "startOffsets": "2139",
+                        "endColumns": "100",
+                        "endOffsets": "2235"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\eranp\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-11.8.0.aar\\7018e0376aabbbd7f12cf5aaa897d209\\res\\values-fi\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "283",
+                        "endColumns": "208",
+                        "endOffsets": "491"
+                    },
+                    "to": {
+                        "startLines": "19",
+                        "startColumns": "4",
+                        "startOffsets": "1850",
+                        "endColumns": "208",
+                        "endOffsets": "2054"
                     }
                 }
             ]
@@ -1832,10 +1832,44 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\Eran P\\AndroidStudioProjects\\ClientPageNew\\app\\build\\intermediates\\res\\merged\\debug\\values-af_values-af.arsc.flat",
+            "outputFile": "C:\\Users\\eranp\\Google Drive\\Projects\\Android_Studio\\ClientPageNew\\app\\build\\intermediates\\res\\merged\\debug\\values-ko_values-ko.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\Eran P\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\f2a2142be038702921832370400c6198\\res\\values-af\\values-af.xml",
+                    "source": "C:\\Users\\eranp\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-11.8.0.aar\\7018e0376aabbbd7f12cf5aaa897d209\\res\\values-ko\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "283",
+                        "endColumns": "179",
+                        "endOffsets": "462"
+                    },
+                    "to": {
+                        "startLines": "19",
+                        "startColumns": "4",
+                        "startOffsets": "1746",
+                        "endColumns": "179",
+                        "endOffsets": "1921"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\eranp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\63e4ee05c17a5ba982d382654dec0768\\res\\values-ko\\values-ko.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,200,294,396,478,576,682,761,837,917,1015,1110,1205,1305,1401,1500,1652,1746",
+                        "endColumns": "94,93,101,81,97,105,78,75,79,97,94,94,99,95,98,151,93,77",
+                        "endOffsets": "195,289,391,473,571,677,756,832,912,1010,1105,1200,1300,1396,1495,1647,1741,1819"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,200,294,396,478,576,682,761,837,917,1015,1110,1205,1305,1401,1500,1652,1926",
+                        "endColumns": "94,93,101,81,97,105,78,75,79,97,94,94,99,95,98,151,93,77",
+                        "endOffsets": "195,289,391,473,571,677,756,832,912,1010,1105,1200,1300,1396,1495,1647,1741,1999"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\eranp\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\ac048145027ea8995425f58a0af7bd6a\\res\\values-ko\\values-ko.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1846,43 +1880,9 @@
                     "to": {
                         "startLines": "21",
                         "startColumns": "4",
-                        "startOffsets": "2108",
+                        "startOffsets": "2004",
                         "endColumns": "100",
-                        "endOffsets": "2204"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Eran P\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\b8682d6dc2122727d4dfc673ac00f6b1\\res\\values-af\\values-af.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,209,309,415,500,603,721,797,874,955,1062,1165,1262,1370,1472,1574,1728,1826",
-                        "endColumns": "103,99,105,84,102,117,75,76,80,106,102,96,107,101,101,153,97,79",
-                        "endOffsets": "204,304,410,495,598,716,792,869,950,1057,1160,1257,1365,1467,1569,1723,1821,1901"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,209,309,415,500,603,721,797,874,955,1062,1165,1262,1370,1472,1574,1728,2028",
-                        "endColumns": "103,99,105,84,102,117,75,76,80,106,102,96,107,101,101,153,97,79",
-                        "endOffsets": "204,304,410,495,598,716,792,869,950,1057,1160,1257,1365,1467,1569,1723,1821,2103"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Eran P\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-11.8.0.aar\\ac613952b08f8841d2bd99458883c31f\\res\\values-af\\values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "283",
-                        "endColumns": "201",
-                        "endOffsets": "484"
-                    },
-                    "to": {
-                        "startLines": "19",
-                        "startColumns": "4",
-                        "startOffsets": "1826",
-                        "endColumns": "201",
-                        "endOffsets": "2023"
+                        "endOffsets": "2100"
                     }
                 }
             ]
@@ -1944,44 +1944,10 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\eranp\\Google Drive\\Projects\\Android_Studio\\ClientPageNew\\app\\build\\intermediates\\res\\merged\\debug\\values-ko_values-ko.arsc.flat",
+            "outputFile": "C:\\Users\\Eran P\\AndroidStudioProjects\\ClientPageNew\\app\\build\\intermediates\\res\\merged\\debug\\values-af_values-af.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\eranp\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-11.8.0.aar\\7018e0376aabbbd7f12cf5aaa897d209\\res\\values-ko\\values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "283",
-                        "endColumns": "179",
-                        "endOffsets": "462"
-                    },
-                    "to": {
-                        "startLines": "19",
-                        "startColumns": "4",
-                        "startOffsets": "1746",
-                        "endColumns": "179",
-                        "endOffsets": "1921"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\eranp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\63e4ee05c17a5ba982d382654dec0768\\res\\values-ko\\values-ko.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,200,294,396,478,576,682,761,837,917,1015,1110,1205,1305,1401,1500,1652,1746",
-                        "endColumns": "94,93,101,81,97,105,78,75,79,97,94,94,99,95,98,151,93,77",
-                        "endOffsets": "195,289,391,473,571,677,756,832,912,1010,1105,1200,1300,1396,1495,1647,1741,1819"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,200,294,396,478,576,682,761,837,917,1015,1110,1205,1305,1401,1500,1652,1926",
-                        "endColumns": "94,93,101,81,97,105,78,75,79,97,94,94,99,95,98,151,93,77",
-                        "endOffsets": "195,289,391,473,571,677,756,832,912,1010,1105,1200,1300,1396,1495,1647,1741,1999"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\eranp\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\ac048145027ea8995425f58a0af7bd6a\\res\\values-ko\\values-ko.xml",
+                    "source": "C:\\Users\\Eran P\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\f2a2142be038702921832370400c6198\\res\\values-af\\values-af.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -1992,9 +1958,43 @@
                     "to": {
                         "startLines": "21",
                         "startColumns": "4",
-                        "startOffsets": "2004",
+                        "startOffsets": "2108",
                         "endColumns": "100",
-                        "endOffsets": "2100"
+                        "endOffsets": "2204"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Eran P\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\b8682d6dc2122727d4dfc673ac00f6b1\\res\\values-af\\values-af.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,209,309,415,500,603,721,797,874,955,1062,1165,1262,1370,1472,1574,1728,1826",
+                        "endColumns": "103,99,105,84,102,117,75,76,80,106,102,96,107,101,101,153,97,79",
+                        "endOffsets": "204,304,410,495,598,716,792,869,950,1057,1160,1257,1365,1467,1569,1723,1821,1901"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,209,309,415,500,603,721,797,874,955,1062,1165,1262,1370,1472,1574,1728,2028",
+                        "endColumns": "103,99,105,84,102,117,75,76,80,106,102,96,107,101,101,153,97,79",
+                        "endOffsets": "204,304,410,495,598,716,792,869,950,1057,1160,1257,1365,1467,1569,1723,1821,2103"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Eran P\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-11.8.0.aar\\ac613952b08f8841d2bd99458883c31f\\res\\values-af\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "283",
+                        "endColumns": "201",
+                        "endOffsets": "484"
+                    },
+                    "to": {
+                        "startLines": "19",
+                        "startColumns": "4",
+                        "startOffsets": "1826",
+                        "endColumns": "201",
+                        "endOffsets": "2023"
                     }
                 }
             ]
@@ -2479,62 +2479,6 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\Eran P\\AndroidStudioProjects\\ClientPageNew\\app\\build\\intermediates\\res\\merged\\debug\\values-ja_values-ja.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\Eran P\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\b8682d6dc2122727d4dfc673ac00f6b1\\res\\values-ja\\values-ja.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,202,295,400,482,580,688,765,841,919,1021,1120,1215,1318,1413,1509,1657,1754",
-                        "endColumns": "96,92,104,81,97,107,76,75,77,101,98,94,102,94,95,147,96,77",
-                        "endOffsets": "197,290,395,477,575,683,760,836,914,1016,1115,1210,1313,1408,1504,1652,1749,1827"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,202,295,400,482,580,688,765,841,919,1021,1120,1215,1318,1413,1509,1657,1935",
-                        "endColumns": "96,92,104,81,97,107,76,75,77,101,98,94,102,94,95,147,96,77",
-                        "endOffsets": "197,290,395,477,575,683,760,836,914,1016,1115,1210,1313,1408,1504,1652,1749,2008"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Eran P\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-11.8.0.aar\\ac613952b08f8841d2bd99458883c31f\\res\\values-ja\\values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "283",
-                        "endColumns": "180",
-                        "endOffsets": "463"
-                    },
-                    "to": {
-                        "startLines": "19",
-                        "startColumns": "4",
-                        "startOffsets": "1754",
-                        "endColumns": "180",
-                        "endOffsets": "1930"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Eran P\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\f2a2142be038702921832370400c6198\\res\\values-ja\\values-ja.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "21",
-                        "startColumns": "4",
-                        "startOffsets": "2013",
-                        "endColumns": "100",
-                        "endOffsets": "2109"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "C:\\Users\\eranp\\Google Drive\\Projects\\Android_Studio\\ClientPageNew\\app\\build\\intermediates\\res\\merged\\debug\\values-sq_values-sq.arsc.flat",
             "map": [
                 {
@@ -2586,6 +2530,62 @@
                         "startOffsets": "1881",
                         "endColumns": "187",
                         "endOffsets": "2064"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Eran P\\AndroidStudioProjects\\ClientPageNew\\app\\build\\intermediates\\res\\merged\\debug\\values-ja_values-ja.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Eran P\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\b8682d6dc2122727d4dfc673ac00f6b1\\res\\values-ja\\values-ja.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,202,295,400,482,580,688,765,841,919,1021,1120,1215,1318,1413,1509,1657,1754",
+                        "endColumns": "96,92,104,81,97,107,76,75,77,101,98,94,102,94,95,147,96,77",
+                        "endOffsets": "197,290,395,477,575,683,760,836,914,1016,1115,1210,1313,1408,1504,1652,1749,1827"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,202,295,400,482,580,688,765,841,919,1021,1120,1215,1318,1413,1509,1657,1935",
+                        "endColumns": "96,92,104,81,97,107,76,75,77,101,98,94,102,94,95,147,96,77",
+                        "endOffsets": "197,290,395,477,575,683,760,836,914,1016,1115,1210,1313,1408,1504,1652,1749,2008"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Eran P\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-11.8.0.aar\\ac613952b08f8841d2bd99458883c31f\\res\\values-ja\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "283",
+                        "endColumns": "180",
+                        "endOffsets": "463"
+                    },
+                    "to": {
+                        "startLines": "19",
+                        "startColumns": "4",
+                        "startOffsets": "1754",
+                        "endColumns": "180",
+                        "endOffsets": "1930"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Eran P\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\f2a2142be038702921832370400c6198\\res\\values-ja\\values-ja.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "21",
+                        "startColumns": "4",
+                        "startOffsets": "2013",
+                        "endColumns": "100",
+                        "endOffsets": "2109"
                     }
                 }
             ]
@@ -2662,6 +2662,21 @@
             ]
         },
         {
+            "outputFile": "C:\\Users\\eranp\\Google Drive\\Projects\\Android_Studio\\ClientPageNew\\app\\build\\intermediates\\res\\merged\\debug\\values-night-v8_values-night-v8.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\eranp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\63e4ee05c17a5ba982d382654dec0768\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,125,209,293,389,491,593",
+                        "endColumns": "69,83,83,95,101,101,93",
+                        "endOffsets": "120,204,288,384,486,588,682"
+                    }
+                }
+            ]
+        },
+        {
             "outputFile": "C:\\Users\\eranp\\Google Drive\\Projects\\Android_Studio\\ClientPageNew\\app\\build\\intermediates\\res\\merged\\debug\\values-bg_values-bg.arsc.flat",
             "map": [
                 {
@@ -2713,21 +2728,6 @@
                         "startOffsets": "1894",
                         "endColumns": "196",
                         "endOffsets": "2086"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\Users\\eranp\\Google Drive\\Projects\\Android_Studio\\ClientPageNew\\app\\build\\intermediates\\res\\merged\\debug\\values-night-v8_values-night-v8.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\eranp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\63e4ee05c17a5ba982d382654dec0768\\res\\values-night-v8\\values-night-v8.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "55,125,209,293,389,491,593",
-                        "endColumns": "69,83,83,95,101,101,93",
-                        "endOffsets": "120,204,288,384,486,588,682"
                     }
                 }
             ]

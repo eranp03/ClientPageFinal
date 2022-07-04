@@ -5,6 +5,6 @@ package com.example.eranp.clientpage;
  */
 
 public class Config {
-    public static final String EMAIL ="eranp03@gmail.com";
-    public static final String PASSWORD ="EP220300";
+    public static final String EMAIL ="mail@test.com";
+    public static final String PASSWORD ="Aa123456";
 }
